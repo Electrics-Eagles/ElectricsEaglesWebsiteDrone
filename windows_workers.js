@@ -1,12 +1,20 @@
  var link_docs="https://alex5250.github.io/ElectricsEaglesWebsiteDrone/docs.html";
- var downland_docs="https://alex5250.github.io/ElectricsEaglesWebsiteDrone/downland.html";
+ var downland_docs="https://alex5250.github.io/ElectricsEaglesWebsiteDrone/downlands.html";
 
 
 
-function download() {
-    window.open(downland_docs, "Docs", "width=300,height=500");
+function download_data() {
+    var link_docs="https://alex5250.github.io/ElectricsEaglesWebsiteDrone/docs.html";
+ var downland_docs="https://alex5250.github.io/ElectricsEaglesWebsiteDrone/downlands.html";
+
+ window.open(downland_docs, "Docs", "width=300,height=500");
+ 
 }
 
 function docs() {
-    window.open(link_docs, "Docs", "width=300,height=500");
+     var link_docs="https://alex5250.github.io/ElectricsEaglesWebsiteDrone/docs.html";
+ var downland_docs="https://alex5250.github.io/ElectricsEaglesWebsiteDrone/downlands.html";
+
+ window.open(link_docs, "Docs", "width=300,height=500");
+ 
 }
