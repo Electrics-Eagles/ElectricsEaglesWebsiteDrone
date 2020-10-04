@@ -19,3 +19,9 @@ window.open("https://www.youtube.com/watch?v=2pHdO8m6T7c&feature=emb_logo");
 	function GitHub() {
 window.open("https://github.com/alex5250/Electric-Eagles");
 	}
+
+	function pcb_order() {
+window.open("https://alex5250.github.io/ElectricsEaglesWebsiteDrone/docs/order_pcb.pdf");
+	}
+
+//https://alex5250.github.io/ElectricsEaglesWebsiteDrone/docs/order_pcb.pdf
